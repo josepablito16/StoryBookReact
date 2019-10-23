@@ -1,0 +1,20 @@
+.app
+{
+	position: relative;
+}
+
+.nav
+{
+	position: absolute;
+	bottom: 57px;
+	left: 45px;
+	z-index: 2;
+	
+}
+
+.phone
+{
+	align-self: center;
+	z-index: 1;
+}
+
